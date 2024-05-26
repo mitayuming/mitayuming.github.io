@@ -1,2 +1,2 @@
 # mitayuming.github.io
-Github Pages
+Github Pages.
